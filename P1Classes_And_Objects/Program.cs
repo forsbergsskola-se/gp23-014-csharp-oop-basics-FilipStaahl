@@ -1,3 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Person printPerson = new Person();
+Console.WriteLine(printPerson);
+Animal printAnimal = new Animal();
+Console.WriteLine(printAnimal);
+Car printCar = new Car();
+Console.WriteLine(printCar);
 
-Console.WriteLine("Hello, World!");
+public class Person
+{
+    
+}
+public class Animal
+{
+    
+}
+
+public class Car
+{
+    
+}
