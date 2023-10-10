@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1Classes_And_Objects", "P1Classes_And_Objects\P1Classes_And_Objects.csproj", "{300CD395-4066-43DC-93EA-73684611882C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2Fields", "P2Fields\P2Fields.csproj", "{65CA51CE-AFE5-4801-AD4D-4802AB0E6AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_1PlayerGold", "P2_1PlayerGold\P2_1PlayerGold.csproj", "{F6A0B9FA-7BC3-424A-A0EE-8698D2974012}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{300CD395-4066-43DC-93EA-73684611882C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300CD395-4066-43DC-93EA-73684611882C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300CD395-4066-43DC-93EA-73684611882C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CA51CE-AFE5-4801-AD4D-4802AB0E6AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CA51CE-AFE5-4801-AD4D-4802AB0E6AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CA51CE-AFE5-4801-AD4D-4802AB0E6AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CA51CE-AFE5-4801-AD4D-4802AB0E6AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A0B9FA-7BC3-424A-A0EE-8698D2974012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A0B9FA-7BC3-424A-A0EE-8698D2974012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A0B9FA-7BC3-424A-A0EE-8698D2974012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A0B9FA-7BC3-424A-A0EE-8698D2974012}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
