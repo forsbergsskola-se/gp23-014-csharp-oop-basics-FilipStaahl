@@ -1,6 +1,4 @@
-﻿namespace P3_1HelloWorld;
-
-public class World
+﻿public class World
 {
     public void Hello()
     {
